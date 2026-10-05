@@ -1,0 +1,19 @@
+# Sensitive credential and secret files
+credentials.txt
+*.env
+*.pem
+*.key
+*.pfx
+
+# Operating system temporary files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# GitHub Uploader Config
+.github_uploader_config.json
+config.json
